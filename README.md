@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-##### Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/obYBjE.
+##### Objective: Build a CodePen.io app that is functionally similar to [this](https://codepen.io/FreeCodeCamp/full/obYBjE)
 ##### Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
 - User Story: I am presented with a random series of button presses.
 - User Story: Each time I input a series of button presses correctly, I see the same series of button presses but with an additional step.
