@@ -1,6 +1,6 @@
 ## FCC-Simon
 ##### Simon project for [freecodecamp.com](https://www.freecodecamp.com/challenges/build-a-simon-game)
-##### Check it out [here](http://htmlpreview.github.io/?https://github.com/moT01/FCC-Simon/blob/master/index.html)
+##### Check it out [here](https://mot01.github.io/FCC-Simon/)
 
 <br/>
 <br/>
